@@ -34,35 +34,9 @@ This project is a Python-based stock analysis tool designed to help users evalua
 ---
 
 ## Similar Projects / Guides
-
-If you want to expand or compare approaches, here are some useful ideas and directions:
-
-* **Algorithmic Trading Bots**
-
-  * Build automated trading strategies using Python
-  * Libraries like `alpaca-trade-api` or `backtrader`
-
-* **Portfolio Trackers**
-
-  * Track multiple investments and overall performance
-  * Add visualization with libraries like `matplotlib` or `plotly`
-
-* **Financial Dashboards**
-
-  * Create interactive dashboards using `Streamlit` or `Dash`
-  * Display charts, metrics, and alerts in real time
-
-* **Machine Learning Stock Prediction**
-
-  * Use models like linear regression or LSTM networks
-  * Predict price trends based on historical data
-
-* **Beginner Guides**
-
-  * “Stock Analysis with Python using yfinance”
-  * “Intro to Fundamental Analysis”
-  * “Building Finance Projects for Your Resume”
-
+https://www.youtube.com/watch?v=buLNFOvHK8o
+https://github.com/LastAncientOne/SimpleStockAnalysisPython
+https://github.com/venky14/Stock-Market-Analysis-and-Prediction
 ---
 
 ## Disclaimer
